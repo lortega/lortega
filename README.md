@@ -1,8 +1,9 @@
 ### Hi there, I'm Luis! 👋
 
-Here's projects I'm currently working on:
-* [the-anti-values](https://github.com/lortega/the-anti-values) in software engineering teams.
-
+- 🔭 I’m currently working on ...
+  * [the-anti-values](https://github.com/lortega/the-anti-values) in software engineering teams.
+- 🌱 I’m currently learning ...
+  * To create applications for the Windows OS.
 
 <!--
 **lortega/lortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
